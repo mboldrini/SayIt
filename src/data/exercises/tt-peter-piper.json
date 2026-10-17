@@ -1,0 +1,23 @@
+{
+  "id": "tt-peter-piper",
+  "categories": ["tongue-twisters"],
+  "title": "Peter Piper",
+  "subtitle": "Bilabial Plosive P",
+  "description": "This exercise drills the explosive /p/ sound, training your lips to create and release a crisp burst of air on every repetition. Rapid /p/ sequences expose and correct any tendency to soften or drop the sound.",
+  "icon": "local_florist",
+  "colorTheme": "secondary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 6,
+  "tip": "Press your lips firmly together before each /p/ and release with a small puff of air — hold a tissue in front of your mouth and make it flutter on every P.",
+  "targetSounds": ["p"],
+  "highlightPattern": "p",
+  "phrases": [
+    "Peter Piper picked a peck of pickled peppers.",
+    "A peck of pickled peppers Peter Piper picked.",
+    "If Peter Piper picked a peck of pickled peppers, where's the peck of pickled peppers Peter Piper picked?",
+    "Picky people pick Peter Pan peanut butter.",
+    "A proper cup of coffee from a proper copper coffee pot.",
+    "Plain plump pandas parade past purple poppies."
+  ]
+}

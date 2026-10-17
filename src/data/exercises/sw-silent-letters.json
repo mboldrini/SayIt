@@ -1,0 +1,23 @@
+{
+  "id": "sw-silent-letters",
+  "categories": ["short-words"],
+  "title": "Silent Letters",
+  "subtitle": "Letters You Don't Pronounce",
+  "description": "English is full of silent consonants left over from older spellings. Knowing which letters to skip will prevent common mispronunciations and boost your confidence.",
+  "icon": "visibility_off",
+  "colorTheme": "secondary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 6,
+  "tip": "When in doubt, say the word out loud the way a native speaker would — many silent letters are simply historical leftovers that were never meant to be heard.",
+  "targetSounds": ["silent"],
+  "highlightPattern": "kn|wr|mb|bt|gh|ps|sc|sw|lk|lm|lf|st(?=le)",
+  "phrases": [
+    "The knight used his knack for knitting to make a knapsack.",
+    "She wrote the wrong answer on her wrist with a marker.",
+    "I doubt the plumber can climb the column to fix the debt.",
+    "Use a comb to comb your hair before you climb the stairs.",
+    "The psychologist on the island had a subtle but honest insight.",
+    "The lamb was numb, and the bomb left a crumb on the tomb."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sw-minimal-pairs-th",
+  "categories": ["short-words"],
+  "title": "TH vs D and V",
+  "subtitle": "Dental vs Dental Stops",
+  "description": "The TH sound is often replaced with /d/ or /v/ by non-native speakers. Training your ear and tongue on these contrasts will make your speech immediately clearer.",
+  "icon": "record_voice_over",
+  "colorTheme": "secondary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 6,
+  "tip": "For TH, let your tongue peek out slightly; for D, your tongue hits the ridge just behind your top teeth and stays inside.",
+  "targetSounds": ["ð", "d", "v"],
+  "highlightPattern": "th|\\bd\\B|\\bv\\B",
+  "phrases": [
+    "There they go — three of them together down the road.",
+    "They said the door over there was never the right one.",
+    "This day and that day — every other day it varies.",
+    "The driver thought the other vehicle had veered.",
+    "Do they know whether that vine over there is dead?",
+    "That dove flew over the den and then vanished."
+  ]
+}

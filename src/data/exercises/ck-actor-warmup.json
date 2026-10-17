@@ -1,0 +1,23 @@
+{
+  "id": "actor-warmup",
+  "categories": ["cork"],
+  "title": "Actor's Warm-Up",
+  "subtitle": "Voice teacher classics — the cork edition",
+  "description": "These are the exercises that acting coaches and vocal trainers have used for generations to warm up the articulation of professional performers. Done with a cork, they become a powerhouse drill for every muscle involved in speech.",
+  "icon": "theater_comedy",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 6,
+  "tip": "Say each phrase with intention and exaggerated mouth movement — the cork is helping you build the habit of full articulation that actors train for years.",
+  "targetSounds": ["l", "t", "p", "m", "n", "k"],
+  "highlightPattern": "[lLtTpPmMnNkK]",
+  "phrases": [
+    "The lips the teeth the tip of the tongue",
+    "A proper cup of coffee from a proper copper coffee pot",
+    "Mixed biscuits mixed biscuits mixed biscuits",
+    "Aluminum linoleum aluminum linoleum",
+    "Knapsack straps knapsack straps knapsack straps",
+    "Whether the weather is warm whether the weather is hot"
+  ]
+}

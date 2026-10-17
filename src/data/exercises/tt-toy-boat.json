@@ -1,0 +1,23 @@
+{
+  "id": "tt-toy-boat",
+  "categories": ["tongue-twisters"],
+  "title": "Toy Boat",
+  "subtitle": "Diphthongs OI & OA",
+  "description": "This exercise drills the OI /ɔɪ/ and OA /oʊ/ vowel diphthongs, which require a smooth glide between two vowel positions. Mixing them in rapid alternation is one of the most notoriously difficult English tongue challenges.",
+  "icon": "sailing",
+  "colorTheme": "primary",
+  "isCorkFriendly": false,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 6,
+  "tip": "A diphthong is a glide — start at the first vowel and smoothly slide to the second. For OI, glide from /ɔ/ to /ɪ/. For OA, glide from /o/ to /ʊ/. Never stop in the middle.",
+  "targetSounds": ["oi", "oa", "oy", "ow"],
+  "highlightPattern": "oi|oy|oa|ow(?=[nl])|o(?=at|ad|ak|an)",
+  "phrases": [
+    "Toy boat, toy boat, toy boat.",
+    "The boy's voice annoyed the loyal coin collector.",
+    "The goat in the boat floated past the coast.",
+    "Roy's loyal boy enjoyed the moist soil in the royal garden.",
+    "A slow old crow flew over the low stone road.",
+    "The noisy oil-soaked boy pointed at the poised foil boat."
+  ]
+}

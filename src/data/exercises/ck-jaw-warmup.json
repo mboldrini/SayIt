@@ -1,0 +1,23 @@
+{
+  "id": "jaw-warmup",
+  "categories": ["cork"],
+  "title": "Jaw Wake-Up",
+  "subtitle": "Start here — loosen up before anything else",
+  "description": "This is the first exercise you should do every session. It gently mobilizes the jaw, releases tension in the face and neck, and prepares your mouth for harder work with the cork.",
+  "icon": "self_improvement",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 6,
+  "tip": "Do not rush — slow down on each phrase and feel your jaw dropping naturally. The cork should rest loosely between your teeth, not be gripped.",
+  "targetSounds": ["ah", "oh", "oo", "ee", "ay"],
+  "highlightPattern": "[aeiouAEIOU]",
+  "phrases": [
+    "Open up and breathe easy",
+    "Ah Oh Oo Ee Ay",
+    "Relax your jaw let it drop",
+    "Easy open easy close",
+    "Yawn wide and breathe out slow",
+    "Let go of the tension in your face"
+  ]
+}

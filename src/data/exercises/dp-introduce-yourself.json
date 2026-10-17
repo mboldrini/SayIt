@@ -1,0 +1,25 @@
+{
+  "id": "introduce-yourself",
+  "categories": ["daily-phrases"],
+  "title": "Introduce Yourself",
+  "subtitle": "Make a great first impression",
+  "description": "Practice the most common phrases for meeting someone new. From sharing your name to talking about what you do, these sentences will help you feel confident at any first encounter.",
+  "icon": "waving_hand",
+  "colorTheme": "primary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 8,
+  "tip": "Smile and slow down slightly on your name — people remember you better when you give them a moment to catch it.",
+  "targetSounds": ["th", "v"],
+  "highlightPattern": "th|v",
+  "phrases": [
+    "Hi, my name is Alex and it's great to meet you.",
+    "I'm originally from Brazil, but I've been living here for three years.",
+    "I work as a software developer at a small tech company.",
+    "I've been learning English for about two years now.",
+    "Nice to meet you — what do you do for a living?",
+    "I actually moved here to study at the university.",
+    "This is my first time at one of these events.",
+    "Feel free to reach out if you ever want to practice together."
+  ]
+}

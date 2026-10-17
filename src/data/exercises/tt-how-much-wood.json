@@ -1,0 +1,23 @@
+{
+  "id": "tt-how-much-wood",
+  "categories": ["tongue-twisters"],
+  "title": "How Much Wood",
+  "subtitle": "Approximant W",
+  "description": "This exercise focuses on the /w/ sound, which requires lip rounding and a smooth glide into the following vowel. Repeating W-heavy phrases builds consistent muscle memory for this often-underarticulated sound.",
+  "icon": "forest",
+  "colorTheme": "secondary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 6,
+  "tip": "Round your lips into a tight circle before voicing each /w/ — think of it as the shape you make to blow out a candle, then glide smoothly into the vowel.",
+  "targetSounds": ["w"],
+  "highlightPattern": "w(?!h)|wh",
+  "phrases": [
+    "How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
+    "A woodchuck would chuck all the wood he could chuck if a woodchuck could chuck wood.",
+    "How many boards could the Mongols hoard if the Mongol hordes got bored?",
+    "Whether the weather is warm, whether the weather is hot, we have to put up with the weather, whether we like it or not.",
+    "Which witch wished which wicked wish?",
+    "Will you always allow a wall-eyed walrus to wander in the wildwood?"
+  ]
+}

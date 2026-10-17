@@ -1,0 +1,23 @@
+{
+  "id": "sw-plural-endings",
+  "categories": ["short-words"],
+  "title": "Plural -S Endings",
+  "subtitle": "/s/, /z/, and /ɪz/",
+  "description": "The -S ending for plurals and third-person verbs has three distinct pronunciations. Mastering them gives your English a polished, natural rhythm.",
+  "icon": "category",
+  "colorTheme": "primary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 6,
+  "tip": "After hissing sounds (s, z, sh, ch, j) say /ɪz/; after other voiced sounds say /z/; after other voiceless sounds say /s/.",
+  "targetSounds": ["s", "z", "ɪz"],
+  "highlightPattern": "s\\b|es\\b",
+  "phrases": [
+    "James watches movies, fixes computers, and washes dishes every weekend.",
+    "Cats and dogs are common pets, but foxes and wolves are not.",
+    "She runs five miles, lifts weights, and stretches before breakfast.",
+    "The buses stop at the benches near the churches and bridges.",
+    "He reads books, solves puzzles, and teaches classes on weekdays.",
+    "Birds, bees, and butterflies fill the gardens in spring."
+  ]
+}

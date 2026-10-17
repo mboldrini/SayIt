@@ -1,0 +1,23 @@
+{
+  "id": "classic-phrases",
+  "categories": ["cork"],
+  "title": "Everyday English",
+  "subtitle": "Common phrases — sounding natural under restriction",
+  "description": "The real test of cork training is whether your everyday social English improves. These are the phrases you use every day, practiced with the cork so they come out naturally and confidently when the cork is gone.",
+  "icon": "forum",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 6,
+  "tip": "Notice which words get muddy with the cork — those are exactly the sounds you need to work on most.",
+  "targetSounds": ["all"],
+  "highlightPattern": "[aeiouAEIOU]",
+  "phrases": [
+    "Nice to meet you, where are you from?",
+    "Could I get a cup of coffee please?",
+    "Would you like to come over for dinner on Friday?",
+    "I am really sorry to hear that, how can I help?",
+    "That sounds like a great idea, let me think about it",
+    "It was wonderful to see you again, take care of yourself"
+  ]
+}

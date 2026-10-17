@@ -1,0 +1,22 @@
+{
+  "id": "tt-betty-botter",
+  "categories": ["tongue-twisters"],
+  "title": "Betty Botter",
+  "subtitle": "Stops B & T",
+  "description": "This exercise targets the /b/ and /t/ plosive sounds, training clear articulation of voiced and voiceless stops. The alternating pattern between B and T sharpens muscle memory for both sounds.",
+  "icon": "cake",
+  "colorTheme": "primary",
+  "isCorkFriendly": true,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 5,
+  "tip": "Feel the difference: /b/ is voiced — your throat vibrates — while /t/ is voiceless. Place a finger on your throat to notice the buzz switching on and off.",
+  "targetSounds": ["b", "t"],
+  "highlightPattern": "b|t(?!h)",
+  "phrases": [
+    "Betty Botter bought some butter.",
+    "But she said the butter's bitter.",
+    "If I put it in my batter, it will make my batter bitter.",
+    "But a bit of better butter, that would make my batter better.",
+    "So Betty Botter bought a bit of better butter to make her bitter batter better."
+  ]
+}

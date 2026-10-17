@@ -1,0 +1,23 @@
+{
+  "id": "open-wide",
+  "categories": ["cork"],
+  "title": "Open Wide",
+  "subtitle": "AR and AH — the deep open vowel",
+  "description": "The AR and AH vowel sounds require a fully dropped jaw and a wide-open mouth, which is exactly what the cork trains. This exercise focuses on the broad, resonant openness used in British, Australian, and received pronunciation English.",
+  "icon": "open_in_full",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 6,
+  "tip": "On every AR sound, feel the cork helping you drop your jaw all the way — this is the correct jaw position for this vowel.",
+  "targetSounds": ["ar", "ah", "a"],
+  "highlightPattern": "ar|ah|[aA](?=[rRlLnNmM])|fa|ba|ca|da",
+  "phrases": [
+    "Father are you a farmer from far away",
+    "Barbara bought a large jar of marmalade",
+    "The dark barn was far from the car park",
+    "Are you going to start the car after dark",
+    "Hard work starts with a calm heart",
+    "The star shines hard and far past the palm trees"
+  ]
+}

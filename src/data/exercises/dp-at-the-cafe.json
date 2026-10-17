@@ -1,0 +1,25 @@
+{
+  "id": "at-the-cafe",
+  "categories": ["daily-phrases"],
+  "title": "At the Café",
+  "subtitle": "Order with confidence",
+  "description": "Learn the phrases you need for a smooth café experience, from ordering your drink to asking for the check. These everyday sentences will make you sound like a regular.",
+  "icon": "local_cafe",
+  "colorTheme": "secondary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 8,
+  "tip": "Add 'please' and a slight upward tone at the end of your order — it sounds more natural and polite than a flat statement.",
+  "targetSounds": ["æ", "ɪ"],
+  "highlightPattern": "a(?=\\w)|i(?=\\w)",
+  "phrases": [
+    "Can I get a medium latte with oat milk, please?",
+    "Do you have any seasonal specials today?",
+    "I'll have the avocado toast and a black coffee.",
+    "Could I get that to go, please?",
+    "What would you recommend — the cappuccino or the flat white?",
+    "Can we get the check when you have a chance?",
+    "Do you accept card, or is it cash only?",
+    "Actually, could I swap the regular milk for almond milk?"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tt-fuzzy-wuzzy",
+  "categories": ["tongue-twisters"],
+  "title": "Fuzzy Wuzzy",
+  "subtitle": "Fricatives F, Z & W",
+  "description": "This exercise targets the /f/, /z/, and /w/ sounds in quick succession, training the transitions between labiodental fricatives, alveolar buzzing, and lip-rounded glides. The contrast between voiced /z/ and voiceless /f/ is especially important.",
+  "icon": "pets",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 6,
+  "tip": "For /f/, gently rest your upper teeth on your lower lip and blow. For /z/, buzz like a bee with your tongue tip near the upper gum ridge — feel the difference in vibration.",
+  "targetSounds": ["f", "z", "w"],
+  "highlightPattern": "f|z|w",
+  "phrases": [
+    "Fuzzy Wuzzy was a bear.",
+    "Fuzzy Wuzzy had no hair.",
+    "Fuzzy Wuzzy wasn't fuzzy, was he?",
+    "Five frantic frogs fled from fifty fierce fishes.",
+    "The fuzzy philosopher philosophized about fizzing frozen fizz.",
+    "Wolves with wet whiskers whistled while wading in weedy water."
+  ]
+}

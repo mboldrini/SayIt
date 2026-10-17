@@ -1,0 +1,23 @@
+{
+  "id": "tt-irish-wristwatch",
+  "categories": ["tongue-twisters"],
+  "title": "Irish Wristwatch",
+  "subtitle": "R, W & SH Combo",
+  "description": "This exercise combines three demanding sounds — /r/, /w/, and /ʃ/ (SH) — in tight consonant clusters. The phrase 'Irish wristwatch' is widely considered one of the hardest single-phrase tongue twisters in English.",
+  "icon": "watch",
+  "colorTheme": "secondary",
+  "isCorkFriendly": false,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 6,
+  "tip": "Slow down to half speed first and nail each consonant before increasing pace. The transition from /r/ to /ʃ/ inside 'wristwatch' is the hardest part — give each sound its full shape.",
+  "targetSounds": ["r", "w", "sh"],
+  "highlightPattern": "r|w|sh",
+  "phrases": [
+    "Irish wristwatch.",
+    "An Irish wristwatch, a Swiss wristwatch.",
+    "She wore a Swiss wristwatch on her right wrist.",
+    "Which wristwatch is a Swiss wristwatch?",
+    "Around the rugged rocks the ragged rascal ran.",
+    "Whether the weather be fine or whether the weather be not, we'll weather the weather whatever the weather, whether we like it or not."
+  ]
+}

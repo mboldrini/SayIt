@@ -1,0 +1,23 @@
+{
+  "id": "tt-unique-new-york",
+  "categories": ["tongue-twisters"],
+  "title": "Unique New York",
+  "subtitle": "N, Y & Long U",
+  "description": "This exercise trains the /njuː/ cluster and the palatal glide /j/ (Y-sound), which English learners often drop or distort. Repeating 'unique New York' at speed forces precise articulation of the N-Y transition.",
+  "icon": "location_city",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 6,
+  "tip": "In words like 'new' and 'unique', the /j/ glide is hidden before the /uː/ vowel. Say 'nyoo' not 'noo' — let your tongue briefly touch the palate for the Y before releasing into the vowel.",
+  "targetSounds": ["n", "y", "u"],
+  "highlightPattern": "n(?=ew|u)|y(?=ou|[aeiou])|un(?=i)|ew|u(?=[nrl])",
+  "phrases": [
+    "Unique New York.",
+    "You know New York, you need New York, you know you need unique New York.",
+    "New York is uniquely unified yet undeniably new.",
+    "The youthful new student knew the nuances of unusual university rules.",
+    "You use yew wood to create unique new furniture.",
+    "Ninety-nine neurons noted the new neural network's unusual nuance."
+  ]
+}

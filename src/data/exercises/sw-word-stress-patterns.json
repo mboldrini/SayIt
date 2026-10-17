@@ -1,0 +1,25 @@
+{
+  "id": "sw-word-stress-patterns",
+  "categories": ["short-words"],
+  "title": "Word Stress Shifts",
+  "subtitle": "Noun vs Verb Stress Pairs",
+  "description": "Many English words change their meaning based solely on which syllable is stressed. Nouns are usually stressed on the first syllable, verbs on the second.",
+  "icon": "bar_chart",
+  "colorTheme": "secondary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 8,
+  "tip": "For the noun, punch the FIRST syllable; for the verb, push harder on the SECOND syllable — and let the unstressed syllable go soft.",
+  "targetSounds": ["stress"],
+  "highlightPattern": "record|present|permit|protest|object|conduct|increase|project",
+  "phrases": [
+    "Can you REcord this? I'll reCORD it for you right now.",
+    "She'll PREsent the preSENT to the whole team tomorrow.",
+    "We need a PERmit before they'll perMIT us to enter.",
+    "The PROtest was calm until they decided to proTEST louder.",
+    "That OBject on the shelf — did she obJECT to moving it?",
+    "The CONduct report shows that they conDUCT tests weekly.",
+    "There's been an INcrease since they inCREASE prices each year.",
+    "The PROject is done, but we have to proJECT the results first."
+  ]
+}

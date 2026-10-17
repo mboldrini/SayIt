@@ -1,0 +1,23 @@
+{
+  "id": "tt-she-sells-seashells",
+  "categories": ["tongue-twisters"],
+  "title": "She Sells Seashells",
+  "subtitle": "Sibilant S & SH",
+  "description": "This exercise trains your ability to switch rapidly between the /s/ and /ʃ/ (SH) sounds. Mastering the distinction prevents the two sounds from blurring together under speed.",
+  "icon": "waves",
+  "colorTheme": "primary",
+  "isCorkFriendly": true,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 6,
+  "tip": "Keep your tongue tip behind your lower teeth for /s/, then pull it back and raise it for /ʃ/ — feel the shift before each word.",
+  "targetSounds": ["s", "sh"],
+  "highlightPattern": "sh|ss|se|s(?=[eiy])|\\bs\\w",
+  "phrases": [
+    "She sells seashells by the seashore.",
+    "The shells she sells are surely seashells.",
+    "So if she sells shells on the seashore, I'm sure she sells seashore shells.",
+    "Sally sells short silk shirts, surely she ships some silk.",
+    "Shy Shelly says she shall sew sheets.",
+    "Six slick slim slippery slithering snakes sat silently."
+  ]
+}

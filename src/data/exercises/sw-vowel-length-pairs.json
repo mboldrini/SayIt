@@ -1,0 +1,25 @@
+{
+  "id": "sw-vowel-length-pairs",
+  "categories": ["short-words"],
+  "title": "Short vs Long Vowels",
+  "subtitle": "Ship/Sheep, Full/Fool, Bit/Beat",
+  "description": "English vowel length can completely change a word's meaning. Training your mouth and ear on these minimal pairs is essential for clear, natural pronunciation.",
+  "icon": "tune",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 8,
+  "tip": "For long vowels, hold the sound a beat longer and feel your mouth move slightly — for short vowels, keep it crisp, brief, and relaxed.",
+  "targetSounds": ["ɪ", "iː", "ʊ", "uː"],
+  "highlightPattern": "ship|sheep|slip|sleep|full|fool|pull|pool|bit|beat|sit|seat|fill|feel|will|wheel",
+  "phrases": [
+    "The sheep can't sleep on the slip of the ship.",
+    "Pull the pool cover over — don't fool around in the full tub.",
+    "Did you feel the fill line? Sit in your seat, not on the bit of wood.",
+    "The wheel needs a will to spin — beat the drum, don't just bit it.",
+    "He'll slip into sleep the second he sits in his seat.",
+    "The fool fell into the full bucket near the pool.",
+    "She can feel it fill up as she sits and beats the rhythm.",
+    "The sheep on the ship slipped while the crew tried to sleep."
+  ]
+}

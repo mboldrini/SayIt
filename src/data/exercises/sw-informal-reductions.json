@@ -1,0 +1,25 @@
+{
+  "id": "sw-informal-reductions",
+  "categories": ["short-words"],
+  "title": "Informal Reductions",
+  "subtitle": "Gonna, Wanna, Kinda & More",
+  "description": "Native speakers constantly reduce and blend words in casual speech. Understanding and using these reductions will make you sound far more natural in everyday conversation.",
+  "icon": "speed",
+  "colorTheme": "primary",
+  "isCorkFriendly": false,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 8,
+  "tip": "These reductions only appear in casual, informal speech — never in formal presentations or careful pronunciation — so use them with friends and in relaxed settings.",
+  "targetSounds": ["reductions"],
+  "highlightPattern": "gonna|wanna|kinda|gotta|dunno|hafta|sorta|lemme|gimme|lotsa",
+  "phrases": [
+    "I'm gonna go to the store — you wanna come with me?",
+    "She's kinda tired but she's gotta finish the whole thing.",
+    "I dunno what he was thinking when he said that.",
+    "We're gonna hafta leave early if we wanna catch the train.",
+    "Lemme know if you need anything — I've lotsa time today.",
+    "He's sorta okay with it but he's still kinda upset.",
+    "Gimme a second — I'm gonna look it up right now.",
+    "You dunno what you wanna do, but you gotta decide soon."
+  ]
+}

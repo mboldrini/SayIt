@@ -1,0 +1,23 @@
+{
+  "id": "cork-vowels",
+  "categories": ["cork"],
+  "title": "Open Vowel Power",
+  "subtitle": "A, O, OW — wide mouth, big sound",
+  "description": "The cork forces your jaw open and trains the wide, round vowels that English speakers use constantly. This exercise builds the muscle memory for fully opened A, O, and OW sounds that sound natural and confident.",
+  "icon": "wine_bar",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 6,
+  "tip": "Let the cork keep your jaw dropped on every A and O — resist the urge to close your mouth early.",
+  "targetSounds": ["a", "o", "ow"],
+  "highlightPattern": "[aAoOuU]|ow|aw|ou",
+  "phrases": [
+    "How now brown cow",
+    "Around the rugged rocks the ragged rascal ran",
+    "Open arms open hearts open doors",
+    "Over the ocean the old boat floated slowly",
+    "Allow me to show you how to grow",
+    "The oval was crowded with a loud rowdy crowd"
+  ]
+}

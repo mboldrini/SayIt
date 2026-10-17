@@ -1,0 +1,25 @@
+{
+  "id": "at-the-doctors",
+  "categories": ["daily-phrases"],
+  "title": "At the Doctor's",
+  "subtitle": "Describe symptoms clearly",
+  "description": "Practice the phrases you need to communicate effectively during a medical appointment. Being able to describe how you feel and ask the right questions can make a real difference to your care.",
+  "icon": "medical_services",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 8,
+  "tip": "Use the pattern 'I've been + -ing' to describe ongoing symptoms — it sounds more precise and natural than just saying 'I have pain'.",
+  "targetSounds": ["ð", "θ"],
+  "highlightPattern": "th",
+  "phrases": [
+    "I've been having a sharp pain in my lower back for the past three days.",
+    "The pain gets worse when I sit down for a long time.",
+    "I'm allergic to penicillin — is that going to be a problem?",
+    "I've been feeling really fatigued and short of breath lately.",
+    "Could you explain what this medication is for and how I should take it?",
+    "Are there any side effects I should watch out for?",
+    "I'd like to schedule a follow-up in about two weeks, if that's possible.",
+    "Should I be worried, or is this something that will clear up on its own?"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "small-talk",
+  "categories": ["daily-phrases"],
+  "title": "Small Talk",
+  "subtitle": "Keep the conversation flowing",
+  "description": "Small talk is the glue of social life in English. These natural, everyday phrases will help you start conversations, keep them going, and leave people with a good impression of you.",
+  "icon": "groups",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 8,
+  "tip": "Always follow a question with a short personal comment — 'How was your weekend? Mine was pretty quiet, actually.' This keeps the conversation balanced and natural.",
+  "targetSounds": ["w", "ʌ"],
+  "highlightPattern": "\\bw|\\bu(?=\\w)",
+  "phrases": [
+    "Can you believe this weather? It was sunny just yesterday.",
+    "Did you catch the game last night? What a match that was!",
+    "How long have you been in town? I don't think I've seen you around before.",
+    "So, what are you up to this weekend?",
+    "I just got back from a trip to Portugal — it was absolutely amazing.",
+    "I know, right? It feels like the summer just flew by.",
+    "We should grab a coffee sometime and catch up properly.",
+    "Have you tried that new restaurant on the high street yet?"
+  ]
+}

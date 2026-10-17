@@ -1,0 +1,23 @@
+{
+  "id": "tt-red-lorry",
+  "categories": ["tongue-twisters"],
+  "title": "Red Lorry Yellow Lorry",
+  "subtitle": "R vs L Contrast",
+  "description": "This exercise sharpens the contrast between the /r/ and /l/ sounds, which are commonly confused by many learners. Alternating the two sounds at speed forces precise tongue placement for each.",
+  "icon": "local_shipping",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 6,
+  "tip": "For /l/, touch your tongue tip to the ridge just behind your upper teeth. For /r/, curl the tip back without touching anything — practice each sound in isolation before combining them.",
+  "targetSounds": ["r", "l"],
+  "highlightPattern": "r|l",
+  "phrases": [
+    "Red lorry, yellow lorry.",
+    "Red lorry, yellow lorry, red lorry, yellow lorry.",
+    "Really leery, rarely Larry.",
+    "Larry's large lorry lurched around the rural road.",
+    "The rural librarian rarely relies on elaborate rules.",
+    "Rolling red barrels around really rural roads requires real effort."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "consonant-clusters",
+  "categories": ["cork"],
+  "title": "Cluster Crunch",
+  "subtitle": "Multiple consonants back to back — with a cork",
+  "description": "English consonant clusters like STR, SPR, and SKR are brutal with a cork because each consonant demands precise tongue and lip movement in rapid sequence. Mastering these builds the clearest possible articulation across the whole mouth.",
+  "icon": "tune",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 6,
+  "tip": "Break each cluster down slowly first — STR, then SPR, then the full phrase. Speed will come after accuracy with the cork.",
+  "targetSounds": ["str", "spr", "cr", "cl", "tr", "xtr"],
+  "highlightPattern": "str|spr|cr|cl|tr|xtr|scr|spl",
+  "phrases": [
+    "Strengths",
+    "The sprightly sprite stretched across the stream",
+    "Crispy crackers crumble into crooked crumbs",
+    "Extra strict instructions restrict street traffic",
+    "Splash the spring water across the scrubbed floor",
+    "The strong stranger strode across the crumbling bridge"
+  ]
+}

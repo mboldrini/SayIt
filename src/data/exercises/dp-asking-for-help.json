@@ -1,0 +1,25 @@
+{
+  "id": "asking-for-help",
+  "categories": ["daily-phrases"],
+  "title": "Asking for Help",
+  "subtitle": "Request assistance politely",
+  "description": "Knowing how to ask for help politely is one of the most useful skills in any language. These phrases use the softest, most natural forms so you can ask for what you need without sounding demanding.",
+  "icon": "help",
+  "colorTheme": "primary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 8,
+  "tip": "Use 'Could you' or 'Would you mind' instead of 'Can you' when asking a favour — the extra politeness goes a long way, especially with strangers.",
+  "targetSounds": ["d", "ð"],
+  "highlightPattern": "\\bd|th(?=\\w)",
+  "phrases": [
+    "Could you give me a hand with this for a second?",
+    "Would you mind explaining that one more time? I'm not quite sure I follow.",
+    "Excuse me, could you point me in the direction of the train station?",
+    "I was wondering if you could help me figure this out.",
+    "Do you think you could cover for me just this once?",
+    "Would it be okay if I asked you a quick favour?",
+    "I hate to bother you, but could you take a look at this when you have a moment?",
+    "I'd really appreciate any help you could give me with this."
+  ]
+}

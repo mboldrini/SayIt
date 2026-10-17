@@ -1,0 +1,25 @@
+{
+  "id": "on-the-phone",
+  "categories": ["daily-phrases"],
+  "title": "On the Phone",
+  "subtitle": "Sound professional on every call",
+  "description": "Phone conversations can be tricky when you're speaking a second language. These phrases cover the most common situations you'll face, from answering professionally to dealing with a bad connection.",
+  "icon": "phone",
+  "colorTheme": "primary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 8,
+  "tip": "Speak a little slower than you think you need to — on the phone, without visual cues, clarity matters more than speed.",
+  "targetSounds": ["h", "w"],
+  "highlightPattern": "\\bh|\\bw",
+  "phrases": [
+    "Hi, this is Jordan speaking — how can I help you?",
+    "Could you hold for just a moment while I pull up your account?",
+    "I'm sorry, could you spell your last name for me, please?",
+    "I'm having trouble hearing you — the connection seems a bit poor.",
+    "Would you mind speaking up a little? I can barely hear you.",
+    "I just want to confirm our appointment for Monday at two o'clock.",
+    "I'll have someone call you back within the hour.",
+    "Is there anything else I can help you with before we hang up?"
+  ]
+}

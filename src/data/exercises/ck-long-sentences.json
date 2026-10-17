@@ -1,0 +1,23 @@
+{
+  "id": "long-sentences",
+  "categories": ["cork"],
+  "title": "Full Sentences",
+  "subtitle": "Long, complex phrasing under pressure",
+  "description": "Holding a cork while speaking long sentences trains your breath control, stamina, and ability to maintain articulation over time without tightening up. This mimics the demands of real conversations, speeches, and presentations.",
+  "icon": "article",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 6,
+  "tip": "Take a full breath before each sentence and do not rush through it — let the cork remind you to keep your jaw open throughout.",
+  "targetSounds": ["all"],
+  "highlightPattern": "[aeiouAEIOU]",
+  "phrases": [
+    "I would really appreciate it if you could come over on Thursday evening",
+    "The entire presentation needs to be reviewed before the board meeting tomorrow morning",
+    "Could you please make sure that everything is ready by the time the guests arrive",
+    "We have been working on this project for several months and we are almost finished",
+    "It is important to speak clearly and confidently especially when meeting someone for the first time",
+    "The committee has decided to postpone the announcement until further information becomes available"
+  ]
+}

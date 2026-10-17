@@ -1,0 +1,25 @@
+{
+  "id": "shopping",
+  "categories": ["daily-phrases"],
+  "title": "Shopping",
+  "subtitle": "Find exactly what you need",
+  "description": "Whether you're looking for the right size or trying to return an item, these phrases will make your shopping trips much smoother. Practice them so you can focus on finding what you came for.",
+  "icon": "shopping_bag",
+  "colorTheme": "secondary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 8,
+  "tip": "When asking for help in a store, start with 'Excuse me' — it's the most natural way to get a staff member's attention without sounding rude.",
+  "targetSounds": ["s", "z"],
+  "highlightPattern": "s|z",
+  "phrases": [
+    "Excuse me, do you have this in a size medium?",
+    "Is this item available in any other colors?",
+    "I'd like to try these on — where's the fitting room?",
+    "I bought this last week and it doesn't fit. Can I exchange it?",
+    "Do you have any ongoing sales or discounts at the moment?",
+    "Sorry, is this the final price or can you do any better?",
+    "I'll take it. Can I pay by card?",
+    "Could I get a gift receipt with this, please?"
+  ]
+}

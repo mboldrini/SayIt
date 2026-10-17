@@ -1,0 +1,25 @@
+{
+  "id": "sw-tricky-th-sounds",
+  "categories": ["short-words"],
+  "title": "Tricky TH Sounds",
+  "subtitle": "Voiced & Voiceless TH",
+  "description": "Master the two TH sounds: the voiceless /θ/ in 'think' and the voiced /ð/ in 'this'. Both require placing your tongue lightly between your teeth.",
+  "icon": "psychology",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 8,
+  "tip": "Touch the tip of your tongue to the edge of your upper front teeth and blow air through — don't tuck your tongue all the way in.",
+  "targetSounds": ["θ", "ð"],
+  "highlightPattern": "th",
+  "phrases": [
+    "Though he thought it through, he wasn't thoroughly sure.",
+    "Thirty-three thieves thought they had the throne.",
+    "Whether the weather is cold or whether it's hot, we'll weather the weather.",
+    "This and that, these and those, then and there.",
+    "The thing is, I think there's something they're not telling us.",
+    "They bathed the other three together on Thursday.",
+    "Neither the father nor the mother noticed the other threat.",
+    "Thank them for both the thought and the thoughtful gift."
+  ]
+}

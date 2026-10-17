@@ -1,0 +1,25 @@
+{
+  "id": "business-meeting",
+  "categories": ["daily-phrases"],
+  "title": "Business Meeting",
+  "subtitle": "Speak up in the boardroom",
+  "description": "Professional meetings demand precise, confident language. These phrases will help you propose ideas, clarify expectations, and keep discussions moving forward like a seasoned professional.",
+  "icon": "business_center",
+  "colorTheme": "secondary",
+  "isCorkFriendly": false,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 8,
+  "tip": "Use 'I'd like to propose' or 'My suggestion would be' instead of just 'I think' — it signals confidence and signals you're ready to own the idea.",
+  "targetSounds": ["ʃ", "tʃ"],
+  "highlightPattern": "sh|ch|tch",
+  "phrases": [
+    "I'd like to propose an alternative approach that could save us significant time.",
+    "Before we proceed, could we clarify the deliverables for this phase?",
+    "To summarize, we've agreed on three action items with a deadline of Friday.",
+    "I'd suggest we schedule a follow-up call to review the initial results.",
+    "Could you share the latest figures so we can make an informed decision?",
+    "I want to make sure everyone is aligned before we move forward.",
+    "That's a fair point — perhaps we could revisit that issue in the next session.",
+    "Should we establish a clear owner for each of these action items?"
+  ]
+}

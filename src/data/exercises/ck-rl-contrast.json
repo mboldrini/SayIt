@@ -1,0 +1,23 @@
+{
+  "id": "rl-contrast",
+  "categories": ["cork"],
+  "title": "R vs L Challenge",
+  "subtitle": "The toughest contrast — made harder with cork",
+  "description": "Distinguishing R from L is already one of the hardest tasks in English pronunciation, and the cork raises the stakes by restricting your tongue's range of motion. This exercise forces precise tongue placement to hit each sound correctly.",
+  "icon": "compare_arrows",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 6,
+  "tip": "For R, curl your tongue tip back without touching anything. For L, press the tip firmly behind your upper front teeth — the cork makes this extra conscious.",
+  "targetSounds": ["r", "l"],
+  "highlightPattern": "[rRlL]",
+  "phrases": [
+    "Really lovely little lorries rolling along",
+    "Larry rolled the heavy barrel down the long road",
+    "Truly rural truly rural truly rural",
+    "The road led the lorry around the large lake",
+    "Rarely will a lily grow along a rocky river",
+    "Ronald clearly learned to rely on real luck"
+  ]
+}

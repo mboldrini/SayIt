@@ -1,0 +1,25 @@
+{
+  "id": "making-apologies",
+  "categories": ["daily-phrases"],
+  "title": "Making Apologies",
+  "subtitle": "Say sorry the right way",
+  "description": "A genuine apology can go a long way in any language. These phrases will help you apologize naturally in English, whether you're five minutes late or interrupting a conversation.",
+  "icon": "sentiment_satisfied",
+  "colorTheme": "primary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 8,
+  "tip": "Follow 'I'm sorry' with a brief explanation and a solution — this three-part structure sounds more sincere and complete than just 'sorry'.",
+  "targetSounds": ["ɪ", "iː"],
+  "highlightPattern": "i(?=\\w)|ee|ea",
+  "phrases": [
+    "I'm so sorry I'm late — the traffic was completely unexpected.",
+    "I really apologize for the misunderstanding. That was my fault.",
+    "Sorry to interrupt, but I just need to ask a quick question.",
+    "I take full responsibility for what happened.",
+    "I should have let you know sooner — I'm truly sorry about that.",
+    "Please accept my apologies. It won't happen again.",
+    "I feel terrible about the confusion I caused.",
+    "I'm sorry if I came across the wrong way — that wasn't my intention at all."
+  ]
+}

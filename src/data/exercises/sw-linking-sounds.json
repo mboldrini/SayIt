@@ -1,0 +1,25 @@
+{
+  "id": "sw-linking-sounds",
+  "categories": ["short-words"],
+  "title": "Linking in Speech",
+  "subtitle": "Connected Speech Flow",
+  "description": "Fluent English runs words together rather than pronouncing each one separately. Learning to link sounds naturally is one of the biggest steps toward sounding native.",
+  "icon": "link",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 8,
+  "tip": "Treat the whole phrase as one long word — when a word ends in a consonant and the next starts with a vowel, slide them together without a pause.",
+  "targetSounds": ["linking"],
+  "highlightPattern": "it |it$|up |of |and |at |on |in |out ",
+  "phrases": [
+    "Turn it off and put it away before you leave.",
+    "Pick it up and bring it over to the table.",
+    "What are you up to tonight after work?",
+    "I looked it up and found out it was free.",
+    "Come on in and sit down — take it easy.",
+    "She ran out of time and had to give it up.",
+    "Let me know if you figure it out on your own.",
+    "Hold on a second — I'll be right back in a minute."
+  ]
+}

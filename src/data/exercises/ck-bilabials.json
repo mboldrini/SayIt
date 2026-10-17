@@ -1,0 +1,23 @@
+{
+  "id": "bilabials",
+  "categories": ["cork"],
+  "title": "Bilabial Blast",
+  "subtitle": "B, P, M — lips working overtime",
+  "description": "Bilabial sounds — B, P, and M — are made entirely with the lips, and the cork forces your lips to work harder to seal and release. This exercise builds explosive lip strength and clarity for some of the most common sounds in English.",
+  "icon": "face",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 6,
+  "tip": "Press your lips together firmly over the cork to make clean B, P, and M sounds — you will feel the extra effort.",
+  "targetSounds": ["b", "p", "m"],
+  "highlightPattern": "[bBpPmM]",
+  "phrases": [
+    "Blue bubbles bounce beautifully",
+    "Mommy made mashed potatoes and meatballs",
+    "Peter picked purple peppers by the pond",
+    "Bob built a big brick building beside the bay",
+    "My map shows the path past the palm tree",
+    "Please put the paper bag by the brown box"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "giving-directions",
+  "categories": ["daily-phrases"],
+  "title": "Giving Directions",
+  "subtitle": "Help others find their way",
+  "description": "Being able to give and follow directions in English is an essential real-world skill. These phrases cover everything from simple turns to landmarks and distance estimates.",
+  "icon": "signpost",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 8,
+  "tip": "Use landmarks instead of just street names — 'turn left at the big supermarket' is much easier to follow than 'turn left onto Oak Street'.",
+  "targetSounds": ["r", "l"],
+  "highlightPattern": "r|l",
+  "phrases": [
+    "Go straight ahead for about two blocks and then turn left.",
+    "Turn right at the traffic lights, just past the pharmacy.",
+    "Take the roundabout and exit at the third turning.",
+    "It's just on the left, right after the old library.",
+    "You've gone too far — you need to double back about a hundred meters.",
+    "It's roughly a ten-minute walk from here.",
+    "Follow the signs for the city center and you can't miss it.",
+    "Head down this road until you see a large park on your right."
+  ]
+}

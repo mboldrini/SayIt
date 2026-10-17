@@ -1,0 +1,23 @@
+{
+  "id": "sw-minimal-pairs-pb",
+  "categories": ["short-words"],
+  "title": "P vs B Pairs",
+  "subtitle": "Voiceless vs Voiced Stops",
+  "description": "The sounds /p/ and /b/ are made in exactly the same place, but /p/ is a puff of air and /b/ uses your voice. Mixing them up can completely change a word's meaning.",
+  "icon": "compare_arrows",
+  "colorTheme": "primary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 6,
+  "tip": "Hold your hand in front of your mouth — /p/ makes a strong burst of air, while /b/ barely moves air at all.",
+  "targetSounds": ["p", "b"],
+  "highlightPattern": "\\bp\\B|\\bb\\B|p\\b|b\\b",
+  "phrases": [
+    "Pack your bag and put it in the back of the bus.",
+    "The pet bat and the big black cat sat by the pot.",
+    "Please bring the peach pie and blueberry bread.",
+    "Ben paid a pound and a bit for the bunch of plums.",
+    "The park bench broke when the big boy bumped it.",
+    "Pam and Bob both picked up the broken blue cup."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sw-past-tense-endings",
+  "categories": ["short-words"],
+  "title": "Past Tense Endings",
+  "subtitle": "-ED: /t/, /d/, and /ɪd/",
+  "description": "The -ED ending is pronounced three different ways depending on the final sound of the verb. Getting this right makes your English sound smooth and natural.",
+  "icon": "history_edu",
+  "colorTheme": "tertiary",
+  "isCorkFriendly": false,
+  "difficulty": "Easy ⭐",
+  "phraseCount": 6,
+  "tip": "After voiceless sounds (k, p, s, f) say /t/; after voiced sounds (g, b, z, v) say /d/; after T or D, say /ɪd/ — it gets its own syllable.",
+  "targetSounds": ["t", "d", "ɪd"],
+  "highlightPattern": "ed\\b",
+  "phrases": [
+    "Yesterday I walked to the park, jogged around the lake, and started a new book.",
+    "She cooked dinner, cleaned the kitchen, and decided to rest.",
+    "He jumped, skipped, and landed softly on the padded mat.",
+    "They talked, laughed, and ended the evening with a toast.",
+    "We visited the museum, watched a film, and rested at the hotel.",
+    "He worked all day, fixed the sink, and needed a long nap."
+  ]
+}

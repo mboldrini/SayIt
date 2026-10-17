@@ -1,0 +1,23 @@
+{
+  "id": "tt-six-slippery-snails",
+  "categories": ["tongue-twisters"],
+  "title": "Six Slippery Snails",
+  "subtitle": "Clusters SN & SL",
+  "description": "This exercise targets the SN and SL consonant clusters, training smooth and simultaneous articulation of S followed immediately by a nasal or liquid consonant. These clusters are a common stumbling block at speed.",
+  "icon": "animation",
+  "colorTheme": "primary",
+  "isCorkFriendly": false,
+  "difficulty": "Medium ⭐⭐",
+  "phraseCount": 6,
+  "tip": "Don't insert a vowel between the S and the following consonant — 'snail' is one syllable, not 'suh-nail'. Get the S and N touching in the same breath before the vowel begins.",
+  "targetSounds": ["sn", "sl"],
+  "highlightPattern": "sn|sl",
+  "phrases": [
+    "Six slippery snails slid slowly seaward.",
+    "Six slippery snails slid silently along six slick slabs.",
+    "Slippery slimey snakes slunk slowly sideways.",
+    "The sleek snow sled slid down the snowy slope.",
+    "Sneezing snails leave slimy snail trails on slick glass.",
+    "Slim sly snakes slithered past sleeping snails on slippery stones."
+  ]
+}

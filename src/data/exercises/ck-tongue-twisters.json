@@ -1,0 +1,23 @@
+{
+  "id": "tongue-twisters",
+  "categories": ["cork"],
+  "title": "Cork Twisters",
+  "subtitle": "Classic tongue twisters — now on hard mode",
+  "description": "Tongue twisters are already a challenge, but doing them with a cork between your teeth takes articulation to a whole new level. Your tongue must work with precision while your jaw and lips compensate for the restriction.",
+  "icon": "record_voice_over",
+  "colorTheme": "cork",
+  "isCorkFriendly": true,
+  "difficulty": "Hard ⭐⭐⭐",
+  "phraseCount": 6,
+  "tip": "Go slowly at first — speed is not the goal, clarity is. The cork will slip if you rush and tense up.",
+  "targetSounds": ["s", "sh", "p", "r", "l", "n"],
+  "highlightPattern": "[sSlLrRpP]|sh|ch",
+  "phrases": [
+    "She sells seashells by the seashore",
+    "Red lorry yellow lorry red lorry yellow lorry",
+    "Peter Piper picked a peck of pickled peppers",
+    "Unique New York unique New York you know you need unique New York",
+    "How much wood would a woodchuck chuck if a woodchuck could chuck wood",
+    "The sixth sick sheik's sixth sheep's sick"
+  ]
+}
